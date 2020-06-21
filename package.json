@@ -1,0 +1,19 @@
+{
+  "name": "project6",
+  "version": "1.0.0",
+  "description": "Personal portfolio to showcase my techdegree projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browe83/Static-Node.js-and-Express-Site-Project-6.git"
+  },
+  "author": "Brandon Rowe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/browe83/Static-Node.js-and-Express-Site-Project-6/issues"
+  },
+  "homepage": "https://github.com/browe83/Static-Node.js-and-Express-Site-Project-6#readme"
+}
