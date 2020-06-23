@@ -2,48 +2,63 @@
   "projects": [
     {
       "id": 1,
-      "project_name": "",
-      "description": "",
-      "technologies": ["", ""],
-      "live_link": "",
-      "github_link": "",
-      "image_urls": ["/images/", "/images/"]
+      "project_name": "Random Quotes Generator",
+      "description": "This project creates an app that displays famous random quotes that are updated every 10 seconds or with the click of a mouse.",
+      "technologies": ["VSCode", "JavaScript"],
+      "live_link": "https://browe83.github.io/Techdegree-Project-1/",
+      "github_link": "https://github.com/browe83/Techdegree-Project-1",
+      "image_urls": [
+        "/images/Project_1_Img_1.png",
+        "/images/Project_2_Img_2.png"
+      ]
     },
     {
       "id": 2,
-      "project_name": "",
-      "description": "",
-      "technologies": ["", ""],
-      "live_link": "",
-      "github_link": "",
-      "image_urls": ["/images/", "/images/"]
+      "project_name": "List Pagination and Filtering",
+      "description": "This project enhances a web page using pagination and filtering.",
+      "technologies": ["VSCode", "JavaScript"],
+      "live_link": "https://browe83.github.io/Techdegree-Project-2/",
+      "github_link": "https://github.com/browe83/Techdegree-Project-2",
+      "image_urls": [
+        "/images/Project_2_Img_1.png",
+        "/images/Project_2_Img_2.png"
+      ]
     },
     {
       "id": 3,
-      "project_name": "",
-      "description": "",
-      "technologies": ["", ""],
-      "live_link": "",
-      "github_link": "",
-      "image_urls": ["/images/", "/images/"]
+      "project_name": "Interactive Form",
+      "description": "This project enhances an interactive registration form for a fictional conference called 'FullStack Conf.' by adding customized and conditional behavior and interactivity and validating user input and providing helpful error messages when the user enters invalid information into the form fields.",
+      "technologies": ["VSCode", "JavaScript"],
+      "live_link": "https://browe83.github.io/Techdegree-Project-3/",
+      "github_link": "https://github.com/browe83/Techdegree-Project-3",
+      "image_urls": [
+        "/images/Project_3_Img_1.png",
+        "/images/Project_3_Img_2.png"
+      ]
     },
     {
       "id": 4,
-      "project_name": "",
-      "description": "",
-      "technologies": ["", ""],
-      "live_link": "",
-      "github_link": "",
-      "image_urls": ["/images/", "/images/"]
+      "project_name": "OOP Game Show App",
+      "description": "This project creates a browser-based, word guessing game: `Phrase Hunter.' Using JavaScript and Object-Oriented Programming, it selects a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen or physical keyboard.",
+      "technologies": ["VSCode", "JavaScript"],
+      "live_link": "https://browe83.github.io/OOP-Game-Show-Project-4/",
+      "github_link": "https://github.com/browe83/OOP-Game-Show-Project-4",
+      "image_urls": [
+        "/images/Project_4_Img_1.png",
+        "/images/Project_4_Img_2.png"
+      ]
     },
     {
       "id": 5,
-      "project_name": "",
-      "description": "",
-      "technologies": ["", ""],
-      "live_link": "",
-      "github_link": "",
-      "image_urls": ["/images/", "/images/"]
+      "project_name": "Public API Requests",
+      "description": "This project builds an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. It requests a JSON object from the API and parses the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+      "technologies": ["VSCode", "JavaScript"],
+      "live_link": "https://browe83.github.io/Public-API-Requests-Project-5/",
+      "github_link": "https://github.com/browe83/Public-API-Requests-Project-5",
+      "image_urls": [
+        "/images/Project_5_Img_1.png",
+        "/images/Project_5_Img_2.png"
+      ]
     }
   ]
 }
