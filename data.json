@@ -5,11 +5,12 @@
       "project_name": "Random Quotes Generator",
       "description": "This project creates an app that displays famous random quotes that are updated every 10 seconds or with the click of a mouse.",
       "technologies": ["VSCode", "JavaScript"],
-      "live_link": "https://browe83.github.io/Techdegree-Project-1/",
+      "live_link": "https://browe83.github.io/Techdegree-Project-1/a_random_quote_generator-v1/index.html",
       "github_link": "https://github.com/browe83/Techdegree-Project-1",
       "image_urls": [
         "/images/Project_1_Img_1.png",
-        "/images/Project_2_Img_2.png"
+        "/images/Project_1_Img_2.png",
+        "/images/Project_1_Img_3.png"
       ]
     },
     {
@@ -17,11 +18,12 @@
       "project_name": "List Pagination and Filtering",
       "description": "This project enhances a web page using pagination and filtering.",
       "technologies": ["VSCode", "JavaScript"],
-      "live_link": "https://browe83.github.io/Techdegree-Project-2/",
+      "live_link": "https://browe83.github.io/Techdegree-Project-2//list_pagination_and_filtering-v1/index.html",
       "github_link": "https://github.com/browe83/Techdegree-Project-2",
       "image_urls": [
         "/images/Project_2_Img_1.png",
-        "/images/Project_2_Img_2.png"
+        "/images/Project_2_Img_2.png",
+        "/images/Project_2_Img_3.png"
       ]
     },
     {
@@ -32,7 +34,7 @@
       "live_link": "https://browe83.github.io/Techdegree-Project-3/",
       "github_link": "https://github.com/browe83/Techdegree-Project-3",
       "image_urls": [
-        "/images/Project_3_Img_1.png",
+        "images/Project_3_Img_1.png",
         "/images/Project_3_Img_2.png"
       ]
     },
@@ -45,7 +47,8 @@
       "github_link": "https://github.com/browe83/OOP-Game-Show-Project-4",
       "image_urls": [
         "/images/Project_4_Img_1.png",
-        "/images/Project_4_Img_2.png"
+        "/images/Project_4_Img_2.png",
+        "/images/Project_4_Img_3.png"
       ]
     },
     {
@@ -57,7 +60,8 @@
       "github_link": "https://github.com/browe83/Public-API-Requests-Project-5",
       "image_urls": [
         "/images/Project_5_Img_1.png",
-        "/images/Project_5_Img_2.png"
+        "/images/Project_5_Img_2.png",
+        "/images/Project_5_Img_3.png"
       ]
     }
   ]
