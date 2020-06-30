@@ -24,7 +24,27 @@ app.get("/projects/:id", function (req, res, next) {
   res.render("project", { project });
 });
 
-//starts server
+// catch 404 and forward to error handler
+app.use(function (req, res, next) {
+  const err = new Error("Not Found");
+  err.status = 404;
+  next(err);
+  //next(createError(404));
+});
+
+// error handler
+app.use(function (err, req, res, next) {
+  res.locals.error = err;
+  res.status(404);
+
+  res.locals.err = err.message;
+  res.locals.error = req.app.get("env") === "development" ? err : {};
+
+  res.status(err.status || 500);
+  res.render("error");
+});
+
+// //starts server
 app.listen(3000, () => {
   console.log("The application is running on localhost:3000!");
 });
