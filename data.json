@@ -8,9 +8,9 @@
       "live_link": "https://browe83.github.io/Techdegree-Project-1/a_random_quote_generator-v1/index.html",
       "github_link": "https://github.com/browe83/Techdegree-Project-1",
       "image_urls": [
-        "/images/Project_1_Img_1.png",
-        "/images/Project_1_Img_2.png",
-        "/images/Project_1_Img_3.png"
+        "/static/images/Project_1_Img_1.png",
+        "/static/images/Project_1_Img_2.png",
+        "/static/images/Project_1_Img_3.png"
       ]
     },
     {
@@ -21,9 +21,9 @@
       "live_link": "https://browe83.github.io/Techdegree-Project-2/list_pagination_and_filtering-v1/index.html",
       "github_link": "https://github.com/browe83/Techdegree-Project-2",
       "image_urls": [
-        "/images/Project_2_Img_1.png",
-        "/images/Project_2_Img_2.png",
-        "/images/Project_2_Img_3.png"
+        "/static/images/Project_2_Img_1.png",
+        "/static/images/Project_2_Img_2.png",
+        "/static/images/Project_2_Img_3.png"
       ]
     },
     {
@@ -34,8 +34,8 @@
       "live_link": "https://browe83.github.io/Techdegree-Project-3/interactive-form-v2/index.html",
       "github_link": "https://github.com/browe83/Techdegree-Project-3",
       "image_urls": [
-        "images/Project_3_Img_1.png",
-        "/images/Project_3_Img_2.png"
+        "/static/images/Project_3_Img_1.png",
+        "/static/images/Project_3_Img_2.png"
       ]
     },
     {
@@ -46,9 +46,9 @@
       "live_link": "https://browe83.github.io/OOP-Game-Show-Project-4/oop_game-v2/index.html",
       "github_link": "https://github.com/browe83/OOP-Game-Show-Project-4",
       "image_urls": [
-        "/images/Project_4_Img_1.png",
-        "/images/Project_4_Img_2.png",
-        "/images/Project_4_Img_3.png"
+        "/static/images/Project_4_Img_1.png",
+        "/static/images/Project_4_Img_2.png",
+        "/static/images/Project_4_Img_3.png"
       ]
     },
     {
@@ -59,9 +59,9 @@
       "live_link": "https://browe83.github.io/Public-API-Requests-Project-5/public_api_request-v1/index.html",
       "github_link": "https://github.com/browe83/Public-API-Requests-Project-5",
       "image_urls": [
-        "/images/Project_5_Img_1.png",
-        "/images/Project_5_Img_2.png",
-        "/images/Project_5_Img_3.png"
+        "/static/images/Project_5_Img_1.png",
+        "/static/images/Project_5_Img_2.png",
+        "/static/images/Project_5_Img_3.png"
       ]
     }
   ]
