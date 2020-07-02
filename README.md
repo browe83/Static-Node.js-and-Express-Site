@@ -12,6 +12,7 @@ Thank you for taking time to look at my project! I look forawrd to your feed bac
    b. background color
    c. font
    d. box shadows
+4. npm start can be used to launch the app
 
 Thank you again for time and expertise.
 
