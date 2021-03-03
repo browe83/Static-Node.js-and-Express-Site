@@ -19,6 +19,6 @@
   "homepage": "https://github.com/browe83/Static-Node.js-and-Express-Site-Project-6#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   }
 }
